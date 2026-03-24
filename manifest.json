@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Local AI Assistant",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Локальный AI-ассистент на базе Gemini Nano в Chrome (Prompt API), без API-ключа",
   "icons": {
     "16": "icons/icon16.png",
@@ -31,6 +31,5 @@
     "storage",
     "activeTab",
     "scripting"
-  ],
-  "host_permissions": ["<all_urls>"]
+  ]
 }
