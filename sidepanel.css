@@ -17,8 +17,8 @@
   --ai-bg:     #141518;
   --danger:    #ff4757;
   --radius:    6px;
-  --font-ui:   'Syne', sans-serif;
-  --font-mono: 'JetBrains Mono', monospace;
+  --font-ui:   'Segoe UI', 'Noto Sans', sans-serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
